@@ -1,13 +1,5 @@
 #test Repo
-#New text added gggggggggggggggggggg
-jmdafndfvcmfcvggfdghhhkhkhkh
-ttttttttttttttttttttttttttttttttttttt
-ghghghg
-Познакомиться с:
+#New text added 
 
-особенностями работы браузера
-возможностями Chrome Dev Tools (Стили и Инспектор элементов)
-редактором VSCode
-настройка среды
-расширения
-консоль
+
+some more text added
